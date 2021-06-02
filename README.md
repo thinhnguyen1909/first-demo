@@ -5,6 +5,7 @@
 - 📫 How to reach me ...
 - Testing by charles on Jun-1
 - Hello word from GitHub
+- Changed file content
 
 <!---
 thinhnguyen1909/thinhnguyen1909 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
