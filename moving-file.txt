@@ -1,2 +1,6 @@
 first-demo
+<<<<<<< HEAD
 test add content
+=======
+make it confilg
+>>>>>>> 9f6dd5090ad3008428257d88e4400726c63b28ce
